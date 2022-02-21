@@ -3,3 +3,7 @@
 由于 lsoj 的上线，OIer World 主站 **将于 2022 年 2 月 27 日关闭。**
 
 lsoj 地址：<https://hydro.ac/d/lsoj/>
+
+---
+
+OIer World 2021.8 ~ 2022.2
